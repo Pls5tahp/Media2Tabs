@@ -79,5 +79,5 @@ webm
 
 ## How to use
 
-Right-click on amedia preview image and select Media2Tabs.
+Right-click on a media preview image and select Media2Tabs.
 New browser window opens with all linked media in separate tabs. 
